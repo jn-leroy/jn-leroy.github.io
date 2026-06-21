@@ -1,5 +1,5 @@
 html{
-    background-color: #ef97ce;
+    background-color: #c6579c;
 }
 
 header {
@@ -55,7 +55,7 @@ section{
 	max-width: 100%;
     font-size: 16px;
 
-    background-color:#f8b4c2 /*#22005c*/ ; 
+    background-color:#ef97ce /*#22005c*/ ; 
     color: white;
 
     h1{
