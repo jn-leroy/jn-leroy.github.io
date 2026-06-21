@@ -1,13 +1,14 @@
 header {
-
+    color: #f09464; 
 }
 
 nav {
     ul {
         list-style-type: none;
         margin: 0;
-         padding: 0;
-         overflow: hidden;
+        padding: 0;
+        overflow: hidden;
+        background-color: #38065f;
     }
     
     ul li {
@@ -16,17 +17,44 @@ nav {
 
     ul li a {
         display: block;
+        color: white;
         text-align: center;
         padding: 14px 16px;
         text-decoration: none;
     }
 
     ul li a:hover {
-
+        background-color: #711de0;
     }
 
 }
 
 body{
+    background-color: #c6579c /*#22005c*/ ; 
+    color: white;
 
+    h1 {
+        color: #711de0;
+    }
+
+    h2{
+        color: #ba12d5;
+    }
+
+}
+
+a:hover {
+  color: #f9c56e;
+  background-color: #fff4a6;
+  font-weight: bold;
+}
+
+a:link{
+    color: #f9c56e;
+    font-weight: bold;
+}
+
+a:visited{
+    color: #f09464;
+    font-weight: bold;
 }
