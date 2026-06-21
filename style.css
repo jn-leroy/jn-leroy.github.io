@@ -3,12 +3,16 @@ header {
 	max-width: 100%;
     color: #f09464; 
     font-size: 40px;
+    display : block;
+    margin : auto;
 }
 
 nav {
     width: 1000px;
 	max-width: 100%;
-    font-size: 30px;
+    font-size: 28px;
+    display : block;
+    margin : auto;
     ul {
         list-style-type: none;
         margin: 0;
@@ -40,6 +44,8 @@ nav {
 }
 
 body{
+    display : block;
+    margin : auto;
     width: 1000px;
 	max-width: 100%;
     font-size: 16px;
