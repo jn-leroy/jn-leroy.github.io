@@ -76,19 +76,19 @@ section{
     }
 
 a:link{
-    color: #ffd500;
+    color: #fea545;
     font-weight: bold;
     text-decoration: none;
 }
 
 a:visited{
-    color: #f09464;
+    color: #f66942 /*#f09464*/;
     font-weight: bold;
     text-decoration: none;
 }
 
 a:hover {
-  color: #ffd500;
+  color: #fea545;
   background-color: #fff4a6;
   font-weight: bold;
   text-decoration: none;
