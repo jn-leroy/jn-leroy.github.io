@@ -58,6 +58,7 @@ nav {
 
 section{
     padding-inline: 20px;
+    padding-block: 20px;
     display : block;
     margin : auto;
     width: 960px;
