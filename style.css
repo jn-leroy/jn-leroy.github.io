@@ -76,7 +76,7 @@ section{
     }
 
 a:link{
-    color: #f9c56e;
+    color: #ffd500;
     font-weight: bold;
     text-decoration: none;
 }
@@ -88,7 +88,7 @@ a:visited{
 }
 
 a:hover {
-  color: #f9c56e;
+  color: #ffd500;
   background-color: #fff4a6;
   font-weight: bold;
   text-decoration: none;
