@@ -45,9 +45,8 @@ nav {
         background-color: #711de0;
     }
 
-    ul.navigation li a.on {
+    ul li.active a {
         background:#711de0;
-        padding:14px 16px;
     }
 
     a{
