@@ -10,6 +10,9 @@ header {
     display : block;
     margin : auto;
     background-color: #c6579c;
+    a{
+        text-decoration: none !important;
+    }
 }
 
 nav {
