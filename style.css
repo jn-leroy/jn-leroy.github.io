@@ -58,17 +58,17 @@ section{
 	max-width: 100%;
     font-size: 16px;
 
-    background-color:#38065f /*#efd9f7 #22005c*/ ; 
+    background-color:#38065f /* */ ; 
     color: white;
 
     h1{
         font-size: 2.5em;
-        color: #711de0;
+        color:#d0b3f9;
     }
 
     h2{
         font-size: 1.875em;
-        color: #a42095;
+        color: #efd9f7;
     }
 
     p{
