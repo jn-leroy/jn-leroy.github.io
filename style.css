@@ -57,8 +57,7 @@ nav {
 }
 
 section{
-    padding-left: 20px;
-    padding-bottom: 10px;
+    padding-inline: 20px;
     display : block;
     margin : auto;
     width: 960px;
