@@ -45,7 +45,7 @@ nav {
         background-color: #711de0;
     }
 
-    ul li.active a {
+    ul li. a.on {
         background:#711de0;
     }
 
@@ -57,7 +57,7 @@ nav {
 
 section{
     display : block;
-    margin : 25px;
+    margin : auto;
     width: 1000px;
 	max-width: 100%;
     font-size: 16px;
