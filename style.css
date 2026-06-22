@@ -18,7 +18,7 @@ header {
 nav {
     width: 1000px;
 	max-width: 100%;
-    font-size: 25px;
+    font-size: 20px;
     display : block;
     margin : auto;
     ul {
@@ -63,12 +63,12 @@ section{
 
     h1{
         font-size: 2.5em;
-        color:#d0b3f9;
+        color:#711de0;
     }
 
     h2{
         font-size: 1.875em;
-        color: #efd9f7;
+        color: #d0b3f9;
     }
 
     p{
