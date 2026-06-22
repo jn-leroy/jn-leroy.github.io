@@ -1,5 +1,5 @@
 html{
-    background-color: #d0b3f9;
+    background-color: #b49ef4;
 }
 
 header {
@@ -45,6 +45,11 @@ nav {
         background-color: #711de0;
     }
 
+    ul.navigation li a.on {
+        background:#711de0;
+        padding:14px 16px;
+    }
+
     a{
         text-decoration: none !important;
     }
@@ -52,6 +57,7 @@ nav {
 }
 
 section{
+    padding: 25px;
     display : block;
     margin : auto;
     width: 1000px;
