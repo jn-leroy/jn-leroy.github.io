@@ -53,7 +53,7 @@ nav {
 
 section{
     display : block;
-    margin : 5% 0;
+    margin : auto;
     width: 1000px;
 	max-width: 100%;
     font-size: 16px;
