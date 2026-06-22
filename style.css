@@ -1,5 +1,5 @@
 html{
-    background-color: #c6579c;
+    background-color: #b49ef4;
 }
 
 header {
@@ -9,7 +9,7 @@ header {
     font-size: 40px;
     display : block;
     margin : auto;
-    background-color: #c6579c;
+    background-color: #b49ef4;
     a{
         text-decoration: none !important;
     }
@@ -53,12 +53,12 @@ nav {
 
 section{
     display : block;
-    margin : auto;
+    margin : 5% 0;
     width: 1000px;
 	max-width: 100%;
     font-size: 16px;
 
-    background-color:#ef97ce /*#22005c*/ ; 
+    background-color:#efd9f7 /*#22005c*/ ; 
     color: white;
 
     h1{
