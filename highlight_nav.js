@@ -1,13 +1,13 @@
-<script type="text/javascript">
-$(function(){
-    var $page = jQuery.url.attr("file");
-    $('ul.navigation li a').each(function(){
-        var $href = $(this).attr('href');
-        if ( ($href == $page) || ($href == '') ) {
-            $(this).addClass('on');
-        } else {
-            $(this).removeClass('on');
+$(document).ready(function() {
+    setNavigation();
+});
+
+function setNavigation() {
+    var path = $(location).attr('pathname');
+    $("nav#main-nav a").each(function() {
+        var href = $(this).attr('href');
+        if (path == href) {
+            $(this).addClass('active');
         }
     });
-});
-</script>
+}

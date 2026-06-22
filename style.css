@@ -45,9 +45,9 @@ nav {
         background-color: #711de0;
     }
 
-    ul li. a.on {
+    /*ul li. a.active {
         background:#711de0;
-    }
+    }*/
 
     a{
         text-decoration: none !important;
