@@ -46,9 +46,9 @@ nav {
         background-color: #711de0;
     }
 
-    /*ul li. a.active {
-        background:#711de0;
-    }*/
+    ul li.a.active {
+        background-color:#711de0;
+    }
 
     a{
         text-decoration: none !important;
@@ -58,7 +58,7 @@ nav {
 
 section{
     padding-inline: 20px;
-    padding-block: 5px;
+    padding-block: 2px;
     display : block;
     margin : auto;
     width: 960px;
