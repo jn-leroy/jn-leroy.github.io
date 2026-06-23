@@ -58,6 +58,10 @@ nav {
         text-decoration: none !important;
     }
 
+    navigation-primary a.active-item{
+        background-color:#711de0;
+    };
+
 }
 
 section{
